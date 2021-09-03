@@ -8,7 +8,7 @@
 
 
 <p>
- <img src="https://github-readme-stats.vercel.app/api?username=sothundyy&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="sothundyy" style="width:50%;"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=sothundyy&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="sothundyy" style="width:49%;"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sothundyy&theme=midnight-purple&hide_border=true" alt="sothundyy" style="width:49%;" />
 </p>
 
