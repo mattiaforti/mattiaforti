@@ -3,7 +3,7 @@
 <p>I'm Mattia, a 16 yo. guy in Italy. I really enjoy coding and make experience with new stuff!</p>
 <a href="https://t.me/wronger" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/Telegram-@wronger-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" style="max-width: 100%;"></a>
 
-<a href="https://www.discord.com/users/495318385576378368" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/Discord-Thundyy%233423-2CA5E0?style=flat-square&logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a>
+<a href="https://www.discord.com/users/495318385576378368" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/Discord-Thundyy%233423-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a>
 <br />
 
 
