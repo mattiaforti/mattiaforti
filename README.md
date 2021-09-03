@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Thundyy!</h1>
-<h3>ℹ️ INFOS ABOUT ME</h2>
+<h3>ℹ️  INFOS ABOUT ME</h2>
 <p>I'm Mattia, a 16 yo. guy in Italy. I really enjoy coding and make experience with new stuff!</p>
 <a href="https://t.me/wronger" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/Telegram-@wronger-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" style="max-width: 100%;"></a>
 
