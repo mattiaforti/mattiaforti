@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋 I'm Thundyy!</h1>
 <h3>ℹ️ INFOS ABOUT ME</h2>
 <p>I'm Mattia, a 16 yo. guy in Italy. I really enjoy coding and make experience with new stuff!</p>
-<a href="https://t.me/wronger" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/Telegram-@wronger-2CA5E0?style=flat-square&logo=telegramlogoColor=white" alt="Telegram" style="max-width: 100%;"></a>
+<a href="https://t.me/wronger" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/Telegram-@wronger-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" style="max-width: 100%;"></a>
 
 <a href="https://www.discord.com/users/495318385576378368" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/Discord-Thundyy%233423-2CA5E0?style=flat-square&logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a>
 <br />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sothundyy&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="sothundyy" style="max-width:100%;"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sothundyy&theme=midnight-purple&hide_border=true" alt="sothundyy" style="max-width:100%;" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sothundyy&show_icons=true&locale=en&theme=midnight-purple&hide_border=true" alt="sothundyy" style="width:100%;"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sothundyy&theme=midnight-purple&hide_border=true" alt="sothundyy" style="width:100%;" />
 </p>
 
 <hr />
