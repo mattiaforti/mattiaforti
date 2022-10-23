@@ -52,8 +52,7 @@
    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/intellij-%237F00FF.svg?&style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij"/></a>
 <!-- Pycharm --> 
    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/pycharm-%237F00FF.svg?&style=for-the-badge&logo=pycharm&logoColor=white" alt="pycharm"/></a>
-</p>
-<!-- JS -->
+  <!-- JS -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%237F00FF.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/></a>
 <!-- NodeJS -->
   <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/node.js-%237F00FF.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/></a>
@@ -61,6 +60,7 @@
   <a href="https://www.rabbitmq.com" target="_blank"><img src="https://img.shields.io/badge/rabbitmq-%237F00FF.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitMQ"/> </a>
 <!-- Redis -->
   <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/redis-%237F00FF.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis"/></a>
+</p>
 
 <hr />
 <h3 align="left">🟣 » WANT TO KNOW</h3>
