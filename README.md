@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mattia!</h1>
 <h3>ℹ️ INFOS ABOUT ME</h2>
 <p>
-  As you might already know, my name is Mattia! I'm a 17 y.o guy who lives in Italy.
+  As you might already know, my name is Mattia! I'm a 1 y.o guy who lives in Italy.
   <br >
   I wrote the first line of code back in 2015, but nothing actually serious!
   My real coding journey started in 2020, when I first developed a plugin for a Minecraft Server: it was terrible.
