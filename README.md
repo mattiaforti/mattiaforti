@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋 I'm Mattia!</h1>
 <h3>ℹ️ INFOS ABOUT ME</h2>
 <p>
-  As you might already know, my name is Mattia! I'm a 1 y.o guy who lives in Italy.
+  As you might already know, my name is Mattia! I'm a 18 y.o guy who lives in Italy.
   <br >
-  I wrote the first line of code back in 2015, but nothing actually serious!
-  My real coding journey started in 2020, when I first developed a plugin for a Minecraft Server: it was terrible.
+  I wrote the first line of code back in 2015, but nothing serious!
+  My real coding journey started back in 2020, when I first developed a plugin for a Minecraft Server: it was terrible.
   
   <a href="https://t.me/wronger" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/Telegram-@wronger-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" style="max-width: 100%;"></a>
 <a href="https://www.discord.com/users/495318385576378368" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/Discord-Thundyy%233423-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a>
   <br >
   <br >
   <h3>🔍 WHAT I SEE IN MY FUTURE?</h3>
-  I have recently started approaching the web development, a branch which has always really fascinated me. 
+  I have recently started approaching the web development, a branch of the programming world which has always really fascinated me. 
   I am constantly trying to improve! I am always open to discovering new sides of myself and ready to test myself.
 </p>
 
