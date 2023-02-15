@@ -64,9 +64,9 @@
         <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/gradle-%237F00FF.svg?&style=for-the-badge&logo=gradle&logoColor=white" alt="gradle"/></a>
   <!-- React -->
       <a href="https://en.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%237F00FF.svg?&style=for-the-badge&logo=react&logoColor=white" alt="react"/></a>
-  
-<!-- Postgre -->
- <a href="https://en.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/postgresql-%237F00FF.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="react"/></a>
+    <!-- Postgre -->
+      <a href="https://postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/postgresql-%237F00FF.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="react"/></a>
+ 
 </p>
 
 <hr />
@@ -77,6 +77,6 @@
   <!-- Kafka -->
         <a href="https://en.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/kafka-%237F00FF.svg?&style=for-the-badge&logo=apachekafka&logoColor=white" alt="kafka"/></a>
     <!-- Angular -->
-   <a href="https://en.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/angular-%237F00FF.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="angular"/></a>
+   <a href="https://angular.io" target="_blank"><img src="https://img.shields.io/badge/angular-%237F00FF.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="angular"/></a>
 
 </p>
