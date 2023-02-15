@@ -60,6 +60,10 @@
   <a href="https://www.rabbitmq.com" target="_blank"><img src="https://img.shields.io/badge/rabbitmq-%237F00FF.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" alt="rabbitMQ"/> </a>
 <!-- Redis -->
   <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/redis-%237F00FF.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis"/></a>
+    <!-- Gradkle -->
+        <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/gradle-%237F00FF.svg?&style=for-the-badge&logo=gradle&logoColor=white" alt="gradle"/></a>
+  <!-- React -->
+      <a href="https://en.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%237F00FF.svg?&style=for-the-badge&logo=react&logoColor=white" alt="react"/></a>
 </p>
 
 <hr />
@@ -67,10 +71,9 @@
 <p align="left">
   <!-- Vue -->
     <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/vue-%237F00FF.svg?&style=for-the-badge&logo=vue.js&logoColor=white" alt="vue"/></a>
-  <!-- React -->
-      <a href="https://en.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%237F00FF.svg?&style=for-the-badge&logo=react&logoColor=white" alt="react"/></a>
   <!-- Kafka -->
         <a href="https://en.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/kafka-%237F00FF.svg?&style=for-the-badge&logo=apachekafka&logoColor=white" alt="kafka"/></a>
-  <!-- Gradkle -->
-        <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/gradle-%237F00FF.svg?&style=for-the-badge&logo=gradle&logoColor=white" alt="gradle"/></a>
+    <!-- Angular -->
+   <a href="https://en.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/angular-%237F00FF.svg?&style=for-the-badge&logo=angular&logoColor=white" alt="angular"/></a>
+
 </p>
