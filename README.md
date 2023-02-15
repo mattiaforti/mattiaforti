@@ -65,8 +65,8 @@
   <!-- React -->
       <a href="https://en.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/react-%237F00FF.svg?&style=for-the-badge&logo=react&logoColor=white" alt="react"/></a>
   
-    <!-- Postgre -->
- <a href="https://en.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/postgresql-%237F00FF.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="react"/></a>
+<!-- Postgre -->
+<a href="https://en.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/postgresql-%237F00FF.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="react"/></a>
 </p>
 
 <hr />
