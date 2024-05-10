@@ -7,7 +7,7 @@
     What makes me happiest? My resourcefulness, my urge to know and learn about new IT and non-IT realities. But above all, my open-mindedness and kindness to others.
   
   <a href="https://t.me/wronger" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/Telegram-@wronger-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" style="max-width: 100%;"></a>
-<a href="https://www.discord.com/users/495318385576378368" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/Discord-Thundyy%233423-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a>
+<a href="https://www.discord.com/users/495318385576378368" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/Discord-thundyy-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" style="max-width: 100%;"></a>
   <br >
   <br >
   <h3>🔍 WHAT I SEE IN MY FUTURE?</h3>
