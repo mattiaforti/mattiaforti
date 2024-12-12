@@ -3,6 +3,7 @@
 - 💜 IT Passionate, music lover and professional b*****t spammer
 - 🏗️ Full Stack Developer @ [NIMS (Lavazza Group)](https://www.nims.it)
 - 👀 Looking into `general improvement, system architecture design, ui/ux design`...
+- 📍 From Italy, with Pizza Pasta and Love 💓
 
 
 
